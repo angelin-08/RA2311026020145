@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notification Evaluation Backend
 
 This project contains a production-ready backend evaluation sample with:
@@ -33,3 +34,6 @@ root/
 - `LOGGING_API_URL` - external logging endpoint
 - `EXTERNAL_API_TOKEN` - token for protected external notification fetch
 - `PORT` - Express server port
+=======
+# RA2311026020145
+>>>>>>> 4989c64f5445119b0872e63185cff92e46bf62e9

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notification System Design
 
 ## STAGE 1: REST API design
@@ -287,3 +288,6 @@ const sorted = notifications
 ---
 
 This document is designed for submission-ready architecture and implementation guidance.
+=======
+
+>>>>>>> 4989c64f5445119b0872e63185cff92e46bf62e9
